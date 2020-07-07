@@ -1,0 +1,56 @@
+.gameContainer {
+  background-color: rgb(34, 34, 34);
+  border: 5px solid rgb(34, 34, 34);
+  border-radius: 20px;
+  box-shadow: 0px 10px 15px black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 700px;
+  max-width: 700px;
+  margin-top: 3vw;
+  margin-bottom: 5vw;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.score {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 3px;
+  color: white;
+  margin-top: 30px;
+}
+
+.scoreTile {
+  background-color: rgb(34, 34, 34);
+  border: 5px solid rgb(34, 34, 34);
+  border-radius: 5px;
+  box-shadow: 0px 10px 15px black;
+  padding: 5px;
+  margin: 10px;
+}
+
+.hello {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  letter-spacing: 3px;
+  color: white;
+  margin-top: 30px;
+}
+
+.helloTile {
+  background-color: rgb(34, 34, 34);
+  border: 5px solid rgb(34, 34, 34);
+  border-radius: 5px;
+  box-shadow: 0px 10px 15px black;
+  padding: 5px;
+  margin: 0px;
+  text-align: center;
+}
